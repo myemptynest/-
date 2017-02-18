@@ -1,2 +1,1 @@
-# -
-三国[吉川英治]的书摘
+# Three Kingdoms[Eiji Yoshikawa]
